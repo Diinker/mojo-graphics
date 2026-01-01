@@ -1,2 +1,2 @@
-# diinker-graphics
-Diinker Graphics
+# mojo-graphics
+Mojo Graphics
